@@ -1,0 +1,25 @@
+baseURL = "https://cyphai.io"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+title = "CyPhAI Project"
+author = "CyPhAI Project"
+theme = "hugo-flex"
+copyright = "Copyright notice and date: © CyPhAI Project, 2024."
+
+[Params]
+  color = "#2980b9"
+  footer = "Copyright notice and date: © CyPhAI Project, 2024."
+  toc = false # Disable Table of Contents
+  width = "75%"
+
+# The header
+[menu]
+  [[menu.main]]
+    name = "Members"
+    url = "members/"
+    weight = 10
+  [[menu.main]]
+    name = "Open Positions"
+    url = "open-positions/"
+    weight = 20
