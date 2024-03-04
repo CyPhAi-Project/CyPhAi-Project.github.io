@@ -2,14 +2,14 @@
 title: "Members"
 ---
 
-## Principal Investigators
+### Principal Investigators
 
 | France Team            |                      |  |
 |:-----------------------|:---------------------|:-|
 | Principal Investigator | [Thao Dang]          | Research Director, CNRS
 | Principal Collaborator | [Eugene Asarin]      | Professor, IRIF, Université de Paris
 | Principal Collaborator | [Benoît Barbot]      | Associate Professor, Laboratoire d'Algorithmique, Complexité, Logique, Université Paris-Est Créteil
-| Principal Collaborator | [Aneel Tanwani]      | CNRS/LAAS, Toulouse <br/> Researcher, Laboratory for Analyses and Architecture of Systems
+| Principal Collaborator | [Aneel Tanwani]      | Researcher, Laboratory for Analyses and Architecture of Systems, CNRS
 | Principal Collaborator | [Alexandre Donzé]    | Decyphir, Inc.
 {.member-table}
 
@@ -21,7 +21,7 @@ title: "Members"
 {.member-table}
 
 
-## Group Members
+### Group Members
 
 | Dang Group             |                       |  |
 |:-----------------------|:----------------------|:-|
