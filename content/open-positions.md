@@ -24,12 +24,12 @@ Candidates must have or be near the completion of a PhD with research in relevan
 
 We welcome applications from foreign (non-Japanese) nationals. This project is funded by the Core Research for Evolutionary Science and Technology (CREST) program from Japan Science and Technology Agency (JST). Positions are to be filled on a rolling basis with flexible start dates. The initial contract will end at March 2025 with the possibility of extension up to March 2026, when the project will conclude. Compensation is determined on the basis of your qualifications according to the employment regulations in Kyoto University or NII, with social insurances covered by the hiring institutions.
 
-Compensation for successful candidate starts from 6M JPY/year before tax. (We would like to remark that living cost in Japan is quite low these days: Big-mac with fries and soda in McDonald's is 750 JPY; you can have decent ramen with 1000 JPY.)
+Compensation for the successful candidate starts from 6M JPY/year before tax. (We would like to remark that living cost in Japan is quite low these days: Big-mac with fries and soda in McDonald's is 750 JPY; you can have decent ramen with 1000 JPY.)
 
 #### Position Descriptions
 
 #### 1. Two Postdoctoral Researchers in Formal Methods for AI-CPS
-- **Workplace:** Onsite at Kyoto University, Kyoto, Japan
+- **Workplace:** Onsite with [Computer Software Group] at Kyoto University, Kyoto, Japan
 - **Qualifications:**
     + Must have or be near the completion of a PhD with research topics in verification and testing of software or hybrid systems, verification and testing of machine-learning systems, or reinforcement learning
     + Full Professional Proficiency in English
@@ -45,6 +45,8 @@ Compensation for successful candidate starts from 6M JPY/year before tax. (We wo
     + [Étienne André, Masaki Waga, Natsuki Urabe, Ichiro Hasuo: Exemplifying Parametric Timed Specifications over Signals with Bounded Behavior. NFM 2022: 470-488](https://arxiv.org/abs/2203.13247)
     + [Masaki Waga, Ezequiel Castellano, Sasinee Pruekprasert, Stefan Klikovits, Toru Takisaka, Ichiro Hasuo: Dynamic Shielding for Reinforcement Learning in Black-Box Environments. ATVA 2022: 25-41](https://arxiv.org/abs/2207.13446)
     + [Masaki Waga: Active Learning of Deterministic Timed Automata with Myhill-Nerode Style Characterization. CAV (1) 2023: 3-26](https://arxiv.org/abs/2305.17742)
+
+[Computer Software Group]: https://www.fos.kuis.kyoto-u.ac.jp/
 
 
 #### 2. One Postdoctoral Researcher in Control for AI-CPS
