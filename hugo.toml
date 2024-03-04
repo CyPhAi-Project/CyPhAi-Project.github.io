@@ -7,11 +7,12 @@ author = "CyPhAI Project"
 theme = "hugo-flex"
 copyright = "Copyright notice and date: © CyPhAI Project, 2024."
 
-[Params]
+[params]
   color = "#2980b9"
   footer = "Copyright notice and date: © CyPhAI Project, 2024."
   toc = false # Disable Table of Contents
   width = "75%"
+  css = [ "css/styles.css" ]
 
 # The header
 [menu]
@@ -23,3 +24,9 @@ copyright = "Copyright notice and date: © CyPhAI Project, 2024."
     name = "Open Positions"
     url = "open-positions/"
     weight = 20
+
+[markup]
+  [markup.goldmark.parser.attribute]
+    block = true
+  [markup.goldmark.renderer]
+    unsafe = true

@@ -1,0 +1,19 @@
+table.member-table {
+    width: 100%;
+    text-align: left;
+}
+
+table.member-table th, table.member-table td {
+    border-style: none;
+    vertical-align: top;
+}
+
+/* Set the width of the first column */
+table.member-table th:first-child, table.member-table td:first-child {
+    width: 160px;
+}
+
+/* Set the width of the second column */
+table.member-table th:nth-child(2), table.member-table td:nth-child(2) {
+    width: 170px;
+}
