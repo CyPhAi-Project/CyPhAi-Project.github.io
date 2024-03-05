@@ -13,7 +13,7 @@ copyright = "Copyright notice and date: © CyPhAI Project, 2021-2024."
   favicon = true
   divider = "\\2500\\2500\\2500"
   toc = false # Disable Table of Contents
-  width = "75%"
+  width = "95%"
   css = [ "css/styles.css" ]
 
 # The header
