@@ -15,13 +15,22 @@ copyright = "Copyright notice and date: © CyPhAI Project, 2021-2024."
   toc = false # Disable Table of Contents
   width = "95%"
   css = [ "css/styles.css" ]
+  summaries = true
 
 # The header
 [menu]
   [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 5
+  [[menu.main]]
     name = "Members"
     url = "members/"
     weight = 10
+  [[menu.main]]
+    name = "Updates"
+    url = "updates/"
+    weight = 15
   [[menu.main]]
     name = "Open Positions"
     url = "open-positions/"
