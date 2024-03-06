@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+### 2024 
++ Y. Kawamoto, T. Sato, and K. Suenaga, “Sound and relatively complete belief Hoare logic for statistical hypothesis testing programs,” Artificial Intelligence, vol. 326, p. 104045, Jan. 2024, doi: 10.1016/j.artint.2023.104045.
+
+
 ### 2023
 
 + Y. Takayama, K. Hashimoto, and T. Ohtsuka, “Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications,” in 2023 62nd IEEE Conference on Decision and Control (CDC), Singapore, Singapore: IEEE, Dec. 2023, pp. 6855–6862. doi: 10.1109/CDC49753.2023.10383605.
@@ -12,12 +16,11 @@ title: "Publications"
 + 和田弘匡, 小蔵正輝, 岸田昌子, and 若宮直紀, “深層展開を用いた静的出力フィードバック安定化におけるハイパーパラメータの考察.” Jxiv, Jan. 13, 2023. doi: 10.51094/jxiv.242.
 + T. Sekiyama and H. Unno, “Temporal Verification with Answer-Effect Modification: Dependent Temporal Type-and-Effect System with Delimited Continuations,” Proc. ACM Program. Lang., vol. 7, no. POPL, pp. 2079–2110, Jan. 2023, doi: 10.1145/3571264.
 + M. Waga, “Active Learning of Deterministic Timed Automata with Myhill-Nerode Style Characterization,” in Computer Aided Verification, vol. 13964, C. Enea and A. Lal, Eds., in Lecture Notes in Computer Science, vol. 13964. , Cham: Springer Nature Switzerland, 2023, pp. 3–26. doi: 10.1007/978-3-031-37706-8_1.
-+ A. Wachi, W. Hashimoto, X. Shen, and K. Hashimoto, “Safe Exploration in Reinforcement Learning: A Generalized Formulation and Algorithms,” 2023, doi: 10.48550/ARXIV.2310.03225.
++ A. Wachi, W. Hashimoto, X. Shen, and K. Hashimoto, “Safe Exploration in Reinforcement Learning: A Generalized Formulation and Algorithms,” in Advances in Neural Information Processing Systems, A. Oh, T. Neumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine, Eds., Curran Associates, Inc., 2023, pp. 29252–29272. [Online]. Available: https://proceedings.neurips.cc/paper_files/paper/2023/file/5d4cd12ef6efedbf26b69b410f1f7d67-Paper-Conference.pdf
 + T. Koizumi, Y. Wasa, and M. Kishida, “Information Transfer-based Topology Identification of Dynamic Multi-agent Systems,” IFAC-PapersOnLine, vol. 56, no. 2, pp. 3948–3953, 2023, doi: 10.1016/j.ifacol.2023.10.1333.
 + A. Kikuchi, K. Uchida, M. Waga, and K. Suenaga, “BOREx: Bayesian-Optimization-Based Refinement of Saliency Map for Image- and Video-Classification Models,” in Computer Vision – ACCV 2022, vol. 13847, L. Wang, J. Gall, T.-J. Chin, I. Sato, and R. Chellappa, Eds., in Lecture Notes in Computer Science, vol. 13847. , Cham: Springer Nature Switzerland, 2023, pp. 274–290. doi: 10.1007/978-3-031-26293-7_17.
 + Y. Kawamoto, T. Sato, and K. Suenaga, “Formalizing Statistical Causality via Modal Logic,” in Logics in Artificial Intelligence, vol. 14281, S. Gaggl, M. V. Martinez, and M. Ortiz, Eds., in Lecture Notes in Computer Science, vol. 14281. , Cham: Springer Nature Switzerland, 2023, pp. 681–696. doi: 10.1007/978-3-031-43619-2_46.
 + A. Gurung, M. Waga, and K. Suenaga, “Learning Nonlinear Hybrid Automata from Input–Output Time-Series Data,” in Automated Technology for Verification and Analysis, vol. 14215, É. André and J. Sun, Eds., in Lecture Notes in Computer Science, vol. 14215. , Cham: Springer Nature Switzerland, 2023, pp. 33–52. doi: 10.1007/978-3-031-45329-8_2.
-+ A. Gurung, M. Waga, and K. Suenaga, “Learning nonlinear hybrid automata from input--output time-series data,” 2023, doi: 10.48550/ARXIV.2301.03915.
 
 
 ### 2022
@@ -28,6 +31,7 @@ title: "Publications"
 + W. Hashimoto, K. Hashimoto, Y. Onoue, and S. Takai, “Learning-Based Iterative Optimal Control for Unknown Systems Using Gaussian Process Regression,” in 2022 European Control Conference (ECC), London, United Kingdom: IEEE, Jul. 2022, pp. 1554–1559. doi: 10.23919/ECC55457.2022.9838236.
 + Y. Nishida et al., “Helmholtz: A Verifier for Tezos Smart Contracts Based on Refinement Types,” New Gener. Comput., vol. 40, no. 2, pp. 507–540, Jul. 2022, doi: 10.1007/s00354-022-00167-1.
 + K. Hashimoto, N. Tsumagari, and T. Ushio, “Collaborative Rover-copter Path Planning and Exploration with Temporal Logic Specifications Based on Bayesian Update Under Uncertain Environments,” ACM Trans. Cyber-Phys. Syst., vol. 6, no. 2, pp. 1–24, Apr. 2022, doi: 10.1145/3470453.
++ W. Hashimoto, K. Hashimoto, and S. Takai, “STL2vec: Signal Temporal Logic Embeddings for Control Synthesis With Recurrent Neural Networks,” IEEE Robot. Autom. Lett., vol. 7, no. 2, pp. 5246–5253, Apr. 2022, doi: 10.1109/LRA.2022.3155197.
 + M. Kishida and M. Ogura, “Temporal deep unfolding for constrained nonlinear stochastic optimal control,” IET Control Theory & Appl, vol. 16, no. 2, pp. 139–150, Jan. 2022, doi: 10.1049/cth2.12207.
 + T. Watanabe, Y. Wasa, Y. Susuki, K. Hirata, and K. Tanaka, “Dynamic Energy/Mobility Allocation with EV Consumer Behavior Coupling Transmission Power and Traffic Systems,” IFAC-PapersOnLine, vol. 55, no. 41, pp. 26–31, 2022, doi: 10.1016/j.ifacol.2023.01.098.
 + R. Oura and T. Ushio, “Learning-Based Bounded Synthesis for Semi-MDPs With LTL Specifications,” IEEE Control Syst. Lett., vol. 6, pp. 2557–2562, 2022, doi: 10.1109/LCSYS.2022.3169982.
@@ -35,7 +39,6 @@ title: "Publications"
 + M. Kori, N. Urabe, S. Katsumata, K. Suenaga, and I. Hasuo, “The Lattice-Theoretic Essence of Property Directed Reachability Analysis,” in Computer Aided Verification, vol. 13371, S. Shoham and Y. Vizel, Eds., in Lecture Notes in Computer Science, vol. 13371. , Cham: Springer International Publishing, 2022, pp. 235–256. doi: 10.1007/978-3-031-13185-1_12.
 + M. Kishida and M. Ogura, “Temporal Deep Unfolding for Nonlinear Stochastic Optimal Control,” IFAC-PapersOnLine, vol. 55, no. 1, pp. 908–913, 2022, doi: 10.1016/j.ifacol.2022.04.149.
 + T. Kinugawa and T. Ushio, “Hyper-Labeled Transition System and Its Application to Planning Under Linear Temporal Logic Constraints,” IEEE Control Syst. Lett., vol. 6, pp. 2437–2442, 2022, doi: 10.1109/LCSYS.2022.3162313.
-+ Y. Kawamoto, T. Sato, and K. Suenaga, “Sound and Relatively Complete Belief Hoare Logic for Statistical Hypothesis Testing Programs,” 2022, doi: 10.48550/ARXIV.2208.07074.
 + J. Ikemoto and T. Ushio, “Deep Reinforcement Learning Under Signal Temporal Logic Constraints Using Lagrangian Relaxation,” IEEE Access, vol. 10, pp. 114814–114828, 2022, doi: 10.1109/ACCESS.2022.3218216.
 + R. Banno, K. Matsuoka, N. Matsumoto, S. Bian, M. Waga, and K. Suenaga, “Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption,” in Computer Aided Verification, vol. 13371, S. Shoham and Y. Vizel, Eds., in Lecture Notes in Computer Science, vol. 13371. , Cham: Springer International Publishing, 2022, pp. 447–468. doi: 10.1007/978-3-031-13185-1_22.
 
@@ -51,4 +54,3 @@ title: "Publications"
 + Y. Nishida et al., “Helmholtz: A Verifier for Tezos Smart Contracts Based on Refinement Types,” in Tools and Algorithms for the Construction and Analysis of Systems, vol. 12652, J. F. Groote and K. G. Larsen, Eds., in Lecture Notes in Computer Science, vol. 12652. , Cham: Springer International Publishing, 2021, pp. 262–280. doi: 10.1007/978-3-030-72013-1_14.
 + M. Kishida and M. Ogura, “Temporal Deep Unfolding for Nonlinear Maximum Hands-off Control,” 2021, doi: 10.48550/ARXIV.2104.01755.
 + J. Ikemoto and T. Ushio, “Continuous deep Q-learning with a simulator for stabilization of uncertain discrete-time systems,” NOLTA, vol. 12, no. 4, pp. 738–757, 2021, doi: 10.1587/nolta.12.738.
-+ W. Hashimoto, K. Hashimoto, and S. Takai, “STL2vec: Signal Temporal Logic Embeddings for Control Synthesis With Recurrent Neural Networks,” 2021, doi: 10.48550/ARXIV.2109.04636.
