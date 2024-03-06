@@ -2,10 +2,6 @@
 title: "Open Position Announcements"
 ---
 
-## France Team
-
-Coming soon...
-
 ## Japan Team
 
 ### Postdoctoral Researchers in Formal Methods and Control Theory for AI-Intensive Cyber-Physical Systems (max. until March 2026)
