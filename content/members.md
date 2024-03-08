@@ -25,10 +25,13 @@ title: "Members"
 
 | Dang Group             |                       |  |
 |:-----------------------|:----------------------|:-|
-| Research Collaborator  | [Nicolas Basset]      | Assistant Professor, University Grenoble Alpes
+| Research Collaborator  | [Nicolas Basset]      | Assistant Professor, Université Grenoble Alpes
 | Research Collaborator  | [Marius Bozga]        | CNRS Research Engineer
 | Research Collaborator  | Olivier Lebeltel      | CNRS Research Engineer
-| Research Collaborator  | [Mathias Ramparison]  | Associate Professor, Grenoble INP – ENSIMAG, University Grenoble Alpes
+| Research Collaborator  | [Mathias Ramparison]  | Associate Professor, Grenoble INP – ENSIMAG, Université Grenoble Alpes
+| Research Collaborator  | Marco Esposito        | Postdoctoral Researcher, Université Grenoble Alpes
+| Research Collaborator  | Hadi Dayekh           | PhD Candidate, Université Grenoble Alpes
+| Research Collaborator  | Ana María Gomez Ruiz  | PhD Candidate, Université Grenoble Alpes
 {.member-table}
 
 
