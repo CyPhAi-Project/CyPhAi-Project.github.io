@@ -55,6 +55,7 @@ title: "Members"
 | Research Collaborator  | [Taro Sekiyama]       | Assistant Professor, Information Systems Architecture Science Research Division, National Institute of Informatics
 | Research Collaborator  | [Masaki Waga]         | Assistant Professor, Graduate School of Informatics, Kyoto University
 | Research Collaborator  | [Claus Aranha]        | Assistant professor, University of Tsukuba, Graduate Program in Computer Science and the College of Information Sciences
+| Research Collaborator  | [Chiao Hsieh]         | Postdoctoral Researcher, Graduate School of Informatics, Kyoto University
 {.member-table}
 
 
@@ -83,6 +84,17 @@ title: "Members"
 [Taro Sekiyama]: https://researchmap.jp/t-sekiym/?lang=en
 [Masaki Waga]: https://maswag.github.io/
 [Claus Aranha]: http://conclave.cs.tsukuba.ac.jp/
+[Chiao Hsieh]: https://hc825b.github.io
 [Toshimitsu Ushio]: http://ushiolab.sys.es.osaka-u.ac.jp/
 [Masaki Ogura]: https://masakiogura.com/index.html
 [Kazumune Hashimoto]: https://sites.google.com/view/kazumunehashimoto/
+
+
+### Past Members
+
+| Japan Team    | Former Position            | Current Position |
+|:--------------|:---------------------------|:-|
+| [Amit Gurung] | Postdoc at Kyoto           | Assistant Professor, School of Computer Science, University Of Petroleum And Energy Studies at Dehradun
+{.member-table}
+
+[Amit Gurung]: https://sites.google.com/site/amitgurung777/home
