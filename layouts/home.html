@@ -30,7 +30,7 @@
   </article>
   <h2>Recent Updates</h2>
   {{ $length := len .Paginator.Pages }}
-  {{ range $index, $page := .Paginator.Pages }}
+  {{ range $index, $page := first 4 .Paginator.Pages }}
     <article>
       {{ partial "heading.html" . }}
       {{ if site.Params.summaries }}
