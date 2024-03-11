@@ -112,6 +112,153 @@ Probabilistic Black-Box Checking via Active MDP Learning | ACM Transactions on E
 &lt;li>15:00-15:30: Break&lt;/li>
 &lt;li>15:30-16:30: WiP: Oblivious Online Monitoring for STL with Arithmetic Predicates via Fully Homomorphic Encryption (Masaki)&lt;/li>
 &lt;li>16:30-18:00: Discussion&lt;/li>
+&lt;/ul></description></item><item><title>France–Japan CyPhAI Workshop (December 2022)</title><link>https://cyphai.io/updates/2022-12-08-france-japan-workshop/</link><pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate><guid>https://cyphai.io/updates/2022-12-08-france-japan-workshop/</guid><description>&lt;p>&lt;strong>Date:&lt;/strong> December, 2022&lt;br>
+&lt;strong>Venue:&lt;/strong> France&lt;/p>
+&lt;ul>
+&lt;li>9:15-10:00 Mahsa (Paris): Learning weighted automata&lt;/li>
+&lt;li>10:00-10:30 Eugene (Paris): Learning timed languages&lt;/li>
+&lt;li>10:30 - 11:00 Klara (Paris): Reachability for hypergeometric sequences&lt;/li>
+&lt;li>11:00-11:45 Akshay (Grenoble): Parametric Pattern Matching&lt;/li>
+&lt;li>11:45 - 12:15 Hadi (Grenoble): Hybrid Systems Identification: Classification of Modes&lt;/li>
+&lt;li>12:30 Lunch&lt;/li>
+&lt;li>14:00-15:15 (Verimag seminar) Kohei (Kyoto) Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption&lt;/li>
+&lt;li>15:15-15:45 Mo (Paris) Timed monitoring /quantitative verification&lt;/li>
+&lt;li>15:45-16:15 Thomas (Grenoble) Explaining Timed Systems using a robustness function&lt;/li>
+&lt;/ul></description></item><item><title>Japan CyPhAI Workshop (November 2022)</title><link>https://cyphai.io/updates/2022-11-14-japan-workshop/</link><pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate><guid>https://cyphai.io/updates/2022-11-14-japan-workshop/</guid><description>&lt;p>&lt;strong>Date:&lt;/strong> November 14th–15th, 2022&lt;br>
+&lt;strong>Venue:&lt;/strong>&lt;br>
+National Institute of Informatics,&lt;br>
+2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo&lt;/p>
+&lt;h3 id="11月14日-800-1000-pre-discussion">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/updates/2022-11-14-japan-workshop/#11%e6%9c%8814%e6%97%a5-800-1000-pre-discussion">11月14日: 8:00-10:00 Pre-discussion&lt;/a>
+&lt;/h3>
+&lt;h3 id="11月14日-1000-1800-6h">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/updates/2022-11-14-japan-workshop/#11%e6%9c%8814%e6%97%a5-1000-1800-6h">11月14日: 10:00-18:00: 6h&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>AM
+&lt;ul>
+&lt;li>Opening remark and the current status (0.5h) 末永&lt;/li>
+&lt;li>Tutorials (in parallel) (1h)
+&lt;ul>
+&lt;li>末永 Model checking, (signal) temporal logic, automata (1h)&lt;/li>
+&lt;li>岸田 制御理論集中講義 (1h)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Lunch&lt;/li>
+&lt;li>PM1
+&lt;ul>
+&lt;li>和賀: Dynamic Sheiding (replay of ATVA'22 talk)
+&lt;ul>
+&lt;li>Paper: &lt;a href="https://doi.org/10.1007/978-3-031-19992-9_2">https://doi.org/10.1007/978-3-031-19992-9_2&lt;/a>&lt;/li>
+&lt;li>Extended Version: &lt;a href="https://arxiv.org/abs/2207.13446">https://arxiv.org/abs/2207.13446&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Sagar: 交通流制御 2時からオンラインにいる予定&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>PM2
+&lt;ul>
+&lt;li>Amit Gurung: Hybrid automata learning&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>PM3
+&lt;ul>
+&lt;li>丁力辰：感染症制御&lt;/li>
+&lt;li>橋本航: STL2vec&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="11月15日-1000-1800-6h">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/updates/2022-11-14-japan-workshop/#11%e6%9c%8815%e6%97%a5-1000-1800-6h">11月15日: 10:00-18:00: 6h&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>AM: ERATO (1.5h-2h?)
+&lt;ul>
+&lt;li>(James) STL debugger demo (interactive 15 min, 30 min incl. discussion)&lt;/li>
+&lt;li>(Ichiro) RSS (15-30 min)&lt;/li>
+&lt;li>(Sasinee) STL-based control (30 min)
+&lt;ul>
+&lt;li>Paper: &lt;a href="https://doi.org/10.1109/CDC45484.2021.9683328">https://doi.org/10.1109/CDC45484.2021.9683328&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(Clovis) Logic for Timed Agent Networks (20 min)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Lunch&lt;/li>
+&lt;li>PM1: Starts from 13:30
+&lt;ul>
+&lt;li>伴野良太郎: LTL monitoring with FHE
+&lt;ul>
+&lt;li>Paper: &lt;a href="https://doi.org/10.1007/978-3-031-13185-1_22">https://doi.org/10.1007/978-3-031-13185-1_22&lt;/a>&lt;/li>
+&lt;li>Replay of CAV'22 talk + current research direction&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>廣瀬雄一: 将棋AIの解釈可能性向上手法&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>PM2: Starts from 14:55
+&lt;ul>
+&lt;li>和佐泰明: Multi-agent model identification&lt;/li>
+&lt;li>四十坊
+&lt;ul>
+&lt;li>Paper: &lt;a href="https://doi.org/10.1007/978-3-030-88494-9_6">https://doi.org/10.1007/978-3-030-88494-9_6&lt;/a>&lt;/li>
+&lt;li>Replay of RV'21 talk&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(Jie) Active learning of one-clock timed automata&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Japan CyPhAI Off-Site Seminar (April 2022)</title><link>https://cyphai.io/updates/2022-04-19-japan-seminar/</link><pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate><guid>https://cyphai.io/updates/2022-04-19-japan-seminar/</guid><description>&lt;p>&lt;strong>Date:&lt;/strong> April 19th–21st, 2022&lt;br>
+&lt;strong>Venue:&lt;/strong> Karuizawa, Nagano&lt;/p>
+&lt;h3 id="419">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/updates/2022-04-19-japan-seminar/#419">4/19&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>14:00 - 15:00 顔合わせ（挨拶、近況報告等）&lt;/li>
+&lt;li>15:00 - 18:00 研究情報交換　現在の研究について各自20min 程度はなす
+&lt;ul>
+&lt;li>潮&lt;/li>
+&lt;li>池本&lt;/li>
+&lt;li>和賀&lt;/li>
+&lt;li>四十坊&lt;/li>
+&lt;li>岸田&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>18:00 – 夕食&lt;/li>
+&lt;/ul>
+&lt;h3 id="420">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/updates/2022-04-19-japan-seminar/#420">4/20&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>08:00 – 09:00 朝食&lt;/li>
+&lt;li>09:00 – 12:00 研究情報交換　現在の研究について各自20min 程度はなす
+&lt;ul>
+&lt;li>関山&lt;/li>
+&lt;li>和佐&lt;/li>
+&lt;li>勝股&lt;/li>
+&lt;li>Amit&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>12:00 – 13:00 昼食&lt;/li>
+&lt;li>14:00 – 16:30 アウトドアディスカッション&lt;/li>
+&lt;li>16:30 – 18:00 研究情報交換　現在の研究について各自20min 程度はなす
+&lt;ul>
+&lt;li>末永&lt;/li>
+&lt;li>伴野&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>18:00 – 夕食&lt;/li>
+&lt;/ul>
+&lt;h3 id="421">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/updates/2022-04-19-japan-seminar/#421">4/21&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>08:00 – 9:00 朝食&lt;/li>
+&lt;li>09:00 – 12:00 フリーディスカッション&lt;/li>
+&lt;li>12:00 – 13:00 昼食&lt;/li>
+&lt;li>13:00 – closing 解散&lt;/li>
 &lt;/ul></description></item><item><title>Kick-Off Meeting</title><link>https://cyphai.io/updates/2020-11-18-kick-off-meeting/</link><pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate><guid>https://cyphai.io/updates/2020-11-18-kick-off-meeting/</guid><description>&lt;p>&lt;strong>Venue:&lt;/strong> Virtual meetings&lt;/p>
 &lt;h3 id="part-1-18-november-2020-900-1100am-fr-time-1700-1900-jp-time">
 &lt;a class="Heading-link u-clickable" href="https://cyphai.io/updates/2020-11-18-kick-off-meeting/#part-1-18-november-2020-900-1100am-fr-time-1700-1900-jp-time">Part 1 (18 November 2020, 9:00-11:00am FR time, 17:00-19:00 JP time)&lt;/a>
