@@ -8,10 +8,15 @@ AI-CPS pose a number of design challenges. On one hand, AI techniques are “unp
 
 This project, **Formal Analysis and Design of AI-intensive Cyber-Physical Systems – CyphAI**, is a 5.5-year research project that tackles the above-mentioned challenges on AI-CPS. To achieve these objectives, we combine formal methods from computer science with mathematical control theory, and we use several tools from the field of functional analysis, differential equations, optimization, probability and statistics to solve our problems and establish mathematical rigor in our results. In particular, we develop mathematical concepts for measuring and sampling sets of AI-CPS behaviors, with respect to quantitative criteria (such as property satisfaction, control performance). These concepts are necessary for formal reasoning and extracting information from data, to learn hybrid processes and combine black-box (model-free and data-driven) and white box (model-based) approaches for validation, control, and online monitoring.
 
-The project consists of researchers in Japan (funded by JST) and France (funded by ANR). The project is organized in 5 work packages (WPs) below that cover major problems in the design process: 
+The project members consist of researchers from top research institutes in Japan and France. The project is organized in 5 work packages (WPs) below that cover major problems in the design process: 
 
 + WP1-Learning for CPS,
 + WP2-Learning within CPS,
 + WP3-Validation of CPS and AI-CPS,
 + WP4-Monitoring and Control for Enforcing Dependability and Performance constraints, and
 + WP5-Case Studies, Applications and Tools.
+
+ The project is supported by the Japan Science and Technology agency (JST) and Agence nationale de la recherche (ANR) through the Core Research for Evolutionary Science and Technology (CREST) program. See project records at [JST project database] and [ANR funded projects].
+
+[JST Project Database]: https://projectdb.jst.go.jp/grant/JST-PROJECT-20334578/
+[ANR funded projects]: https://anr.fr/Project-ANR-20-JSTM-0001
