@@ -30,8 +30,8 @@ title: "Members"
 | Research Collaborator  | Olivier Lebeltel      | CNRS Research Engineer
 | Research Collaborator  | [Mathias Ramparison]  | Associate Professor, Grenoble INP – ENSIMAG, Université Grenoble Alpes
 | Research Collaborator  | Marco Esposito        | Postdoctoral Researcher, Université Grenoble Alpes
-| Research Collaborator  | Hadi Dayekh           | PhD Candidate, Université Grenoble Alpes
-| Research Collaborator  | Ana María Gomez Ruiz  | PhD Candidate, Université Grenoble Alpes
+| Student Researcher     | Hadi Dayekh           | PhD Candidate, Université Grenoble Alpes
+| Student Researcher     | Ana María Gomez Ruiz  | PhD Candidate, Université Grenoble Alpes
 {.member-table}
 
 
@@ -55,15 +55,14 @@ title: "Members"
 | Research Collaborator  | [Taro Sekiyama]       | Assistant Professor, Information Systems Architecture Science Research Division, National Institute of Informatics
 | Research Collaborator  | [Masaki Waga]         | Assistant Professor, Graduate School of Informatics, Kyoto University
 | Research Collaborator  | [Claus Aranha]        | Assistant professor, University of Tsukuba, Graduate Program in Computer Science and the College of Information Sciences
-| Research Collaborator  | [Chiao Hsieh]         | Postdoctoral Researcher, Graduate School of Informatics, Kyoto University
+| Project Researcher     | [Chiao Hsieh]         | Postdoctoral Researcher, Graduate School of Informatics, Kyoto University
 {.member-table}
 
 
 | Kishida Group          |                       |  |
 |:-----------------------|:----------------------|:-|
-| Research Collaborator  | [Toshimitsu Ushio]    | Professor, Graduate School of Engineering Science, Osaka University
 | Research Collaborator  | [Masaki Ogura]        | Associate Professor, Graduate School of Information Science and Technology, Osaka University
-| Research Collaborator  | [Kazumune Hashimoto]  | Assistant Professor, Graduate School of Engineering, Osaka University
+| Research Collaborator  | [Kazumune Hashimoto]  | Associate Professor, Graduate School of Engineering, Osaka University
 {.member-table}
 
 
@@ -85,16 +84,16 @@ title: "Members"
 [Masaki Waga]: https://maswag.github.io/
 [Claus Aranha]: http://conclave.cs.tsukuba.ac.jp/
 [Chiao Hsieh]: https://hc825b.github.io
-[Toshimitsu Ushio]: http://ushiolab.sys.es.osaka-u.ac.jp/
 [Masaki Ogura]: https://masakiogura.com/index.html
-[Kazumune Hashimoto]: https://sites.google.com/view/kazumunehashimoto/
+[Kazumune Hashimoto]: https://sites.google.com/view/kazumunehashimotoengpageupdate/home
 
 
 ### Past Members
 
-| Japan Team    | Former Position            | Current Position |
-|:--------------|:---------------------------|:-|
-| [Amit Gurung] | Postdoc at Kyoto           | Assistant Professor, School of Computer Science, University Of Petroleum And Energy Studies at Dehradun
-{.member-table}
+| Japan Team       | Former Position                           | Current Position |
+|:-----------------|:------------------------------------------|:-|
+| Toshimitsu Ushio | Professor, Osaka University               | Retired
+| [Amit Gurung]    | Postdoctoral Researcher, Kyoto University | Assistant Professor, School of Computer Science, University Of Petroleum And Energy Studies at Dehradun
+{.past-member-table}
 
 [Amit Gurung]: https://sites.google.com/site/amitgurung777/home

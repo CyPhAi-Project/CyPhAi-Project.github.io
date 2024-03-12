@@ -17,3 +17,18 @@ table.member-table th:first-child, table.member-table td:first-child {
 table.member-table th:nth-child(2), table.member-table td:nth-child(2) {
     width: 170px;
 }
+
+table.past-member-table {
+    width: 100%;
+    text-align: left;
+}
+
+table.past-member-table th, table.past-member-table td {
+    border-style: none;
+    vertical-align: top;
+}
+
+/* Set the width of the first column */
+table.past-member-table th:first-child, table.past-member-table td:first-child {
+    width: 160px;
+}
