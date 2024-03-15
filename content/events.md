@@ -1,3 +1,8 @@
+---
+title: "Events"
+url: "/events"
+---
+
 Events
 ------
 
