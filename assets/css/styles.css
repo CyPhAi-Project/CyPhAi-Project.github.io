@@ -1,3 +1,10 @@
+h2.recent {
+    margin-bottom: 0;
+}
+h3.Heading-title {
+    margin-top: 8pt;
+}
+
 table.member-table {
     width: 100%;
     text-align: left;

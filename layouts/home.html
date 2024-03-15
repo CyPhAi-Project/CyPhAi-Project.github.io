@@ -29,14 +29,14 @@
     {{ .Content }}
   </article>
 
-  <h2>Recent Updates</h2>
+  <h2 class="recent">Recent Updates</h2>
   {{ range first 2 (where site.RegularPages "Section" "updates")}}
     <article>
       {{ partial "heading.html" . }}
       {{ .Summary }}
     </article>
   {{ end }}
-  <h2>Recent Events</h2>
+  <h2 class="recent">Recent Events</h2>
   {{ $length := len .Paginator.Pages }}
   {{ range $index, $page := first 3 .Paginator.Pages }}
     <article>
