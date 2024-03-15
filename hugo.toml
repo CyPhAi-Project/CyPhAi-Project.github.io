@@ -39,6 +39,10 @@ copyright = "Copyright notice and date: © CyPhAI Project, 2021-2024."
     name = "Publications"
     url = "publications/"
     weight = 25
+  [[menu.main]]
+    name = "Events"
+    url = "events/"
+    weight = 30
 
 [markup]
   [markup.goldmark.parser.attribute]
