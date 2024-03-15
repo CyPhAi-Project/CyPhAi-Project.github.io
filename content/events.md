@@ -3,9 +3,6 @@ title: "Events"
 url: "/events"
 ---
 
-Events
-------
-
 ### 2024
 
 - 2024 Mar. 7th--8th: (internal) France–Japan CyPhAI Workshop
