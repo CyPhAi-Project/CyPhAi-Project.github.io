@@ -16,6 +16,7 @@ copyright = "Copyright notice and date: © CyPhAI Project, 2021-2024."
   width = "95%"
   css = [ "css/styles.css" ]
   summaries = true
+  mainSections = ['events']
 
 # The header
 [menu]
