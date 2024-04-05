@@ -52,16 +52,16 @@ title: "Members"
 
 | Suenaga Group          |                       |  |
 |:-----------------------|:----------------------|:-|
-| Research Collaborator  | [Taro Sekiyama]       | Assistant Professor, Information Systems Architecture Science Research Division, National Institute of Informatics
+| Research Collaborator  | [Taro Sekiyama]       | Associate Professor, Information Systems Architecture Science Research Division, National Institute of Informatics
 | Research Collaborator  | [Masaki Waga]         | Assistant Professor, Graduate School of Informatics, Kyoto University
-| Research Collaborator  | [Claus Aranha]        | Assistant professor, University of Tsukuba, Graduate Program in Computer Science and the College of Information Sciences
+| Research Collaborator  | [Claus Aranha]        | Associate professor, University of Tsukuba, Graduate Program in Computer Science and the College of Information Sciences
 | Project Researcher     | [Chiao Hsieh]         | Postdoctoral Researcher, Graduate School of Informatics, Kyoto University
 {.member-table}
 
 
 | Kishida Group          |                       |  |
 |:-----------------------|:----------------------|:-|
-| Research Collaborator  | [Masaki Ogura]        | Associate Professor, Graduate School of Information Science and Technology, Osaka University
+| Research Collaborator  | [Masaki Ogura]        | Professor, Graduate School of Advanced Science and Engineering, Hiroshima University
 | Research Collaborator  | [Kazumune Hashimoto]  | Associate Professor, Graduate School of Engineering, Osaka University
 {.member-table}
 
