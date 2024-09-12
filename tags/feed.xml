@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cyphai.io/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on CyPhAI Project</title><link>https://cyphai.io/tags/</link><description>Recent content in Tags on CyPhAI Project</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright notice and date: © CyPhAI Project, 2021-2024.</copyright><atom:link rel="self" href="https://cyphai.io/tags/feed.xml" type="application/rss+xml"/><item><title>France–Japan CyPhAI Workshop (March 2024)</title><link>https://cyphai.io/events/2024-03-04-france-japan-workshop/</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>https://cyphai.io/events/2024-03-04-france-japan-workshop/</guid><description>&lt;p>&lt;strong>Date:&lt;/strong> March 7th–8th, 2024 (Japan team is available from 4th–8th).&lt;br>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cyphai.io/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on CyPhAI Project</title><link>https://cyphai.io/tags/</link><description>Recent content in Tags on CyPhAI Project</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright notice and date: © CyPhAI Project, 2021-2024.</copyright><atom:link rel="self" href="https://cyphai.io/tags/feed.xml" type="application/rss+xml"/><item><title>France–Japan CyPhAI Workshop (September 2024)</title><link>https://cyphai.io/events/2024-09-07-france-japan-workshop/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><guid>https://cyphai.io/events/2024-09-07-france-japan-workshop/</guid><description>&lt;p>&lt;em>Titles for some talks are not disclosed and only for internal discussions.&lt;/em>&lt;/p>
+&lt;h3 id="september-2nd3rd-room-4052-irif">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/events/2024-09-07-france-japan-workshop/#september-2nd3rd-room-4052-irif">September 2nd–3rd (Room 4052, IRIF)&lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>Venue:&lt;/strong>&lt;br>
+IRIF&lt;br>
+Université Paris Cité&lt;br>
+Bâtiment Sophie Germain, Case courrier 7014&lt;br>
+8 Place Aurélie Nemours&lt;br>
+75205 Paris Cedex 13&lt;/p>
+&lt;p>Sept. 2&lt;/p>
+&lt;ul>
+&lt;li>Morning: Planning for integrated case studies involving both Japan and France teams
+&lt;ul>
+&lt;li>simglucose: A Type-1 Diabetes simulator implemented in Python for Reinforcement Learning purpose&lt;/li>
+&lt;li>Simulation model from our industrial collaborators&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Afternoon: Presentations on work in progress
+&lt;ul>
+&lt;li>Chiao / Certifying Lyapunov Stability of Black Box Nonlinear Systems via Counter-Example Guided Synthesis&lt;/li>
+&lt;li>Niklas&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Evening: Beer!
+&lt;ul>
+&lt;li>Kohei claimed he stopped drinking alcohol!?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Sept. 3&lt;/p>
+&lt;ul>
+&lt;li>Morning:
+&lt;ul>
+&lt;li>Work in progress presented by Eugene&lt;/li>
+&lt;li>More discussion on simglucose as a potential case study
+&lt;ul>
+&lt;li>Scenarios of times and meals for patients as &lt;strong>timed words&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Afternoon: Japan team traveled to Grenoble&lt;/li>
+&lt;/ul>
+&lt;h3 id="september-4th6th-verimag">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/events/2024-09-07-france-japan-workshop/#september-4th6th-verimag">September 4th–6th (Verimag)&lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>Venue:&lt;/strong>&lt;br>
+Bâtiment IMAG&lt;br>
+Université Grenoble Alpes&lt;br>
+700 Av. Centrale&lt;br>
+38400 Saint-Martin-d&amp;rsquo;Hères&lt;/p>
+&lt;p>Sept. 4&lt;/p>
+&lt;ul>
+&lt;li>Morning: More discussion on the simulation model from collaborators as a potential case study&lt;/li>
+&lt;li>Afternoon: Review existing tools and define software interfaces
+&lt;ul>
+&lt;li>Breach: falsification and parameter synthesis, &lt;a href="https://doi.org/10.1007/978-3-642-14295-6_17">https://doi.org/10.1007/978-3-642-14295-6_17&lt;/a>&lt;/li>
+&lt;li>WordGen: sampling of timed words, &lt;a href="https://doi.org/10.1145/3575870.3587116">https://doi.org/10.1145/3575870.3587116&lt;/a>&lt;/li>
+&lt;li>Hybrid Automata Learning, &lt;a href="https://doi.org/10.1007/978-3-031-45329-8_2">https://doi.org/10.1007/978-3-031-45329-8_2&lt;/a>&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Sept. 5&lt;/p>
+&lt;ul>
+&lt;li>Morning: Decide on topics for integrated case studies
+&lt;ul>
+&lt;li>Evaluation on hybrid automata learning approaches&lt;/li>
+&lt;li>Characterization of controllers based on parametric specifications and scenarios&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Afternoon: Concretize action plans and TODO lists&lt;/li>
+&lt;li>Evening: dinner at restaurant La Belle Idée
+&lt;ul>
+&lt;li>Kohei claimed he stopped drinking alcohol again?!&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Sept. 6&lt;/p>
+&lt;ul>
+&lt;li>Morning: More discussions on hybrid automata learning approaches&lt;/li>
+&lt;li>Afternoon: Sightseeing in Grenoble!&lt;/li>
+&lt;/ul></description></item><item><title>France–Japan CyPhAI Workshop (March 2024)</title><link>https://cyphai.io/events/2024-03-04-france-japan-workshop/</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>https://cyphai.io/events/2024-03-04-france-japan-workshop/</guid><description>&lt;p>&lt;strong>Date:&lt;/strong> March 7th–8th, 2024 (Japan team is available from 4th–8th).&lt;br>
 &lt;strong>Venue:&lt;/strong>&lt;br>
 IRIF&lt;br>
 Université Paris Cité&lt;br>
