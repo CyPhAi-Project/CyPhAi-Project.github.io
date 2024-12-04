@@ -6,7 +6,7 @@ title: "Open Position Announcements"
 
 ### Postdoctoral Researchers in Formal Methods and Control Theory for AI-Intensive Cyber-Physical Systems (max. until March 2026)
 
-(Posted on March 1, 2024. Updated on July 1, 2024.)
+(Posted on March 1, 2024. Updated on December 1, 2024.)
 
 We are excited to announce the availability of three postdoctoral researcher positions within the "CyPhAI: Formal Analysis and Design of AI-intensive Cyber-Physical Systems" project. We seek to develop mathematically rigorous methodologies for the modeling, verification, testing, monitoring, and control of cyber-physical systems (CPS) where artificial intelligence (AI) plays a pivotal role. This pioneering project is a collaborative effort between Japan teams led by Prof. Kohei Suenaga (Kyoto University) and Prof. Masako Kishida (NII) and the France team led by Prof. Thao Dang (CNRS), emphasizing international collaboration and interdisciplinary research in AI-CPS.
 
@@ -20,7 +20,7 @@ Candidates must have or be near the completion of a PhD with research in relevan
 
 We welcome applications from foreign (non-Japanese) nationals. This project is funded by the Core Research for Evolutionary Science and Technology (CREST) program from Japan Science and Technology Agency (JST). Positions are to be filled on a rolling basis with flexible start dates. The initial contract will end in March 2025 with the possibility of extension up to March 2026, when the project will conclude. Compensation is determined on the basis of your qualifications according to the employment regulations in Kyoto University or NII, with social insurances covered by the hiring institutions.
 
-Compensation for the successful candidate starts from 6M JPY/year before tax. (We would like to remark that living cost in Japan is quite low these days: Big-Mac with fries and soda in McDonald's is 750 JPY; you can have decent ramen with 1000 JPY.)
+Compensation for the successful candidate starts from 6M JPY/year before tax. (We would like to remark that living cost in Japan is comparatively more reasonable than North America and most European countries: Big-Mac with fries and soda in McDonald's is 750 JPY; you can have decent ramen with 1000 JPY.)
 
 #### Position Descriptions
 

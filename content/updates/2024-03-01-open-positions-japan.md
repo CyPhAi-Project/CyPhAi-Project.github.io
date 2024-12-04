@@ -1,5 +1,5 @@
 ---
-title: New Open Position Anouncements
+title: New Open Position Anouncement
 date: 2024-03-01
 summary: Three postdoc positions in Japan team
 ---
