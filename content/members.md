@@ -63,6 +63,7 @@ title: "Members"
 |:-----------------------|:----------------------|:-|
 | Research Collaborator  | [Masaki Ogura]        | Professor, Graduate School of Advanced Science and Engineering, Hiroshima University
 | Research Collaborator  | [Kazumune Hashimoto]  | Associate Professor, Graduate School of Engineering, Osaka University
+| Research Collaborator  | [Yasuaki Wasa]  | Associate Professor, Department of Electrical Engineering and Bioscience, Waseda University
 {.member-table}
 
 
@@ -81,11 +82,13 @@ title: "Members"
 [Mahsa Shirmohammadi]: https://www.irif.fr/~mahsa/
 [Adrien Le Coënt]: https://adrienlecoent.github.io/
 [Taro Sekiyama]: https://researchmap.jp/t-sekiym/?lang=en
+[Yasuaki Wasa]: https://wasalab.w.waseda.jp/index_e.html
 [Masaki Waga]: https://maswag.github.io/
 [Claus Aranha]: http://conclave.cs.tsukuba.ac.jp/
 [Chiao Hsieh]: https://hc825b.github.io
 [Masaki Ogura]: https://masakiogura.com/index.html
 [Kazumune Hashimoto]: https://sites.google.com/view/kazumunehashimotoengpageupdate/home
+[Kohei Suenaga]: https://ksuenaga.github.io/
 
 
 ### Past Members
