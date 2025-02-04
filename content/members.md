@@ -10,14 +10,14 @@ title: "Members"
 | Principal Collaborator | [Eugene Asarin]      | Professor, IRIF, Université de Paris
 | Principal Collaborator | [Benoît Barbot]      | Associate Professor, Laboratoire d'Algorithmique, Complexité, Logique, Université Paris-Est Créteil
 | Principal Collaborator | [Aneel Tanwani]      | Researcher, Laboratory for Analyses and Architecture of Systems, CNRS
-| Principal Collaborator | [Alexandre Donzé]    | Decyphir, Inc.
+| Principal Collaborator | [Alexandre Donzé]    | Decyphir, Inc. <br/> Tenure-Track Junior Professor, University of Grenoble Alpes
 {.member-table}
 
 
 | Japan Team             |                      |  |
 |:-----------------------|:---------------------|:-|
 | Principal Investigator | [Kohei Suenaga]      | Associate Professor, Graduate School of Informatics, Kyoto University
-| Principal Collaborator | [Masako Kishida]     | Associate Professor, Principle of Informatics Devision, National Institute of Informatics <br/> Associate Professor, Department of Informatics, Graduate University for Advanced Studies <br/> Guest Associate Professor, Graduate School of Information Science and Technology, Osaka University
+| Principal Collaborator | [Masako Kishida]     | Associate Professor, Principle of Informatics Division, National Institute of Informatics <br/> Associate Professor, Department of Informatics, Graduate University for Advanced Studies <br/> Guest Associate Professor, Graduate School of Information Science and Technology, Osaka University
 {.member-table}
 
 
@@ -55,7 +55,7 @@ title: "Members"
 | Research Collaborator  | [Taro Sekiyama]       | Associate Professor, Information Systems Architecture Science Research Division, National Institute of Informatics
 | Research Collaborator  | [Masaki Waga]         | Assistant Professor, Graduate School of Informatics, Kyoto University
 | Research Collaborator  | [Claus Aranha]        | Associate professor, University of Tsukuba, Graduate Program in Computer Science and the College of Information Sciences
-| Project Researcher     | [Chiao Hsieh]         | Postdoctoral Researcher, Graduate School of Informatics, Kyoto University
+| Project Researcher     | [Chiao Hsieh]         | Program-Specific Assistant Professor, Graduate School of Informatics, Kyoto University
 {.member-table}
 
 
@@ -63,7 +63,7 @@ title: "Members"
 |:-----------------------|:----------------------|:-|
 | Research Collaborator  | [Masaki Ogura]        | Professor, Graduate School of Advanced Science and Engineering, Hiroshima University
 | Research Collaborator  | [Kazumune Hashimoto]  | Associate Professor, Graduate School of Engineering, Osaka University
-| Research Collaborator  | [Yasuaki Wasa]  | Associate Professor, Department of Electrical Engineering and Bioscience, Waseda University
+| Research Collaborator  | [Yasuaki Wasa]        | Associate Professor, Department of Electrical Engineering and Bioscience, Waseda University
 {.member-table}
 
 
