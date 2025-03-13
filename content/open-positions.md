@@ -6,7 +6,7 @@ title: "Open Position Announcements"
 
 ### Postdoctoral Researchers in Formal Methods and Control Theory for AI-Intensive Cyber-Physical Systems (max. until March 2026)
 
-(Posted on March 1, 2024. Updated on December 1, 2024.)
+(Posted on March 1, 2024. Updated on March 13, 2025.)
 
 We are excited to announce the availability of three postdoctoral researcher positions within the "CyPhAI: Formal Analysis and Design of AI-intensive Cyber-Physical Systems" project. We seek to develop mathematically rigorous methodologies for the modeling, verification, testing, monitoring, and control of cyber-physical systems (CPS) where artificial intelligence (AI) plays a pivotal role. This pioneering project is a collaborative effort between Japan teams led by Prof. Kohei Suenaga (Kyoto University) and Prof. Masako Kishida (NII) and the France team led by Prof. Thao Dang (CNRS), emphasizing international collaboration and interdisciplinary research in AI-CPS.
 
@@ -24,14 +24,14 @@ Compensation for the successful candidate starts from 6M JPY/year before tax. (W
 
 #### Position Descriptions
 
-#### 1. Two Postdoctoral Researchers in Formal Methods for AI-CPS
+#### 1. One Postdoctoral Researcher in Formal Methods for AI-CPS
 - **Workplace:** Onsite with [Computer Software Group] at Kyoto University, Kyoto, Japan
 - **Qualifications:**
     + Must have or be near the completion of a PhD with research topics in verification and testing of software or hybrid systems, verification and testing of machine-learning systems, or reinforcement learning
     + Full Professional Proficiency in English
     + Strong programming skills in C++, MATLAB, OCaml, or Python
 - **Recommended Skill:** Elementary Japanese to help your daily life
-- **Principle Investigator**: Prof. Kohei Suenaga
+- **Principal Investigator**: Prof. Kohei Suenaga
 - **Research Focus:** Formal methods applicable to AI-CPS and its application to real-world problems, including but not limited to ones related to our previous publications listed below:
     + [Junya Shijubo, Masaki Waga, Kohei Suenaga: Efficient Black-Box Checking via Model Checking with Strengthened Specifications. RV 2021: 100-120](https://arxiv.org/abs/2109.04656)
     + [Ryotaro Banno, Kotaro Matsuoka, Naoki Matsumoto, Song Bian, Masaki Waga, Kohei Suenaga: Oblivious Online Monitoring for Safety LTL Specification via Fully Homomorphic Encryption. CAV (1) 2022: 447-468](https://arxiv.org/abs/2206.03582)
@@ -53,7 +53,7 @@ Compensation for the successful candidate starts from 6M JPY/year before tax. (W
     + Must have excellent verbal and written communication skills in English
     + Must be able to work independently
 - **Recommended Skill:** Elementary Japanese to help your daily life
-- **Principle Investigator**: Prof. Masako Kishida
+- **Principal Investigator**: Prof. Masako Kishida
 - **Research Focus:** Towards controller designs using machine learning techniques and/or safe controller designs for systems with machine-learning-based components
 
 
