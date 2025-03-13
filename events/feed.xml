@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cyphai.io/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CyPhAI Project</title><link>https://cyphai.io/events/</link><description>Recent content on CyPhAI Project</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright notice and date: © CyPhAI Project, 2021-2024.</copyright><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link rel="self" href="https://cyphai.io/events/feed.xml" type="application/rss+xml"/><item><title>France–Japan CyPhAI Workshop (September 2024)</title><link>https://cyphai.io/events/2024-09-07-france-japan-workshop/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><guid>https://cyphai.io/events/2024-09-07-france-japan-workshop/</guid><description>&lt;p>&lt;em>Titles for some talks are not disclosed and only for internal discussions.&lt;/em>&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://cyphai.io/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CyPhAI Project</title><link>https://cyphai.io/events/</link><description>Recent content on CyPhAI Project</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright notice and date: © CyPhAI Project, 2021-2024.</copyright><lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link rel="self" href="https://cyphai.io/events/feed.xml" type="application/rss+xml"/><item><title>France–Japan CyPhAI Workshop (March 2025)</title><link>https://cyphai.io/events/2025-03-10-france-japan-workshop/</link><pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate><guid>https://cyphai.io/events/2025-03-10-france-japan-workshop/</guid><description>&lt;p>&lt;em>Titles for some talks are not disclosed and only for internal discussions.&lt;/em>&lt;/p>
+&lt;h3 id="march-10th11th-irif">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/events/2025-03-10-france-japan-workshop/#march-10th11th-irif">March 10th–11th (IRIF)&lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>Venue:&lt;/strong>&lt;br>
+IRIF&lt;br>
+Université Paris Cité&lt;br>
+Bâtiment Sophie Germain, Case courrier 7014&lt;br>
+8 Place Aurélie Nemours&lt;br>
+75205 Paris Cedex 13&lt;/p>
+&lt;p>March 10&lt;/p>
+&lt;ul>
+&lt;li>10:00 am - 11:30 am: Verification Seminar
+&lt;ul>
+&lt;li>Chiao / Certifying Lyapunov Stability of Black Box Nonlinear Systems via Counter-Example Guided Synthesis&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Afternoon:
+&lt;ul>
+&lt;li>Outline the progress in each work package (WP)&lt;/li>
+&lt;li>Discuss the integrated case study on hybrid automata learning&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>March 11&lt;/p>
+&lt;ul>
+&lt;li>2:00 pm - 4:30 pm
+&lt;ul>
+&lt;li>Concretize the content of the progress in each WP&lt;/li>
+&lt;li>Find target venues and decide the timeline for the integrated case study&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="march-13th14th-verimag">
+&lt;a class="Heading-link u-clickable" href="https://cyphai.io/events/2025-03-10-france-japan-workshop/#march-13th14th-verimag">March 13th–14th (Verimag)&lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>Venue:&lt;/strong>&lt;br>
+Bâtiment IMAG&lt;br>
+Université Grenoble Alpes&lt;br>
+700 Av. Centrale&lt;br>
+38400 Saint-Martin-d&amp;rsquo;Hères&lt;/p>
+&lt;p>March 13&lt;/p>
+&lt;ul>
+&lt;li>10:00 am - 12:00 pm:
+&lt;ul>
+&lt;li>Review publications from the project and discuss more directions for the coming year for WP1, WP2, and WP3&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>2:15 pm -
+&lt;ul>
+&lt;li>Review publications from the project and discuss more directions for the coming year for WP4&lt;/li>
+&lt;li>TODO list to integrate existing tools to complete WP5&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>France–Japan CyPhAI Workshop (September 2024)</title><link>https://cyphai.io/events/2024-09-07-france-japan-workshop/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><guid>https://cyphai.io/events/2024-09-07-france-japan-workshop/</guid><description>&lt;p>&lt;em>Titles for some talks are not disclosed and only for internal discussions.&lt;/em>&lt;/p>
 &lt;h3 id="september-2nd3rd-room-4052-irif">
 &lt;a class="Heading-link u-clickable" href="https://cyphai.io/events/2024-09-07-france-japan-workshop/#september-2nd3rd-room-4052-irif">September 2nd–3rd (Room 4052, IRIF)&lt;/a>
 &lt;/h3>
