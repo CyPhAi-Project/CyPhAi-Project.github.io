@@ -2,25 +2,32 @@
 title: "Publications"
 ---
 
-### 2024 
+### 2024
+
++ A. Le Coënt, B. Barbot, and N. Pekergin, “Efficient probabilistic inference in biochemical networks,” Computers in Biology and Medicine, vol. 183, p. 109280, Dec. 2024, doi: [10.1016/j.compbiomed.2024.109280](https://doi.org/10.1016/j.compbiomed.2024.109280).
++ M. Waga and É. André, “Hyper Parametric Timed CTL,” IEEE Trans. Comput.-Aided Des. Integr. Circuits Syst., vol. 43, no. 11, pp. 4286–4297, Nov. 2024, doi: [10.1109/TCAD.2024.3443704](https://doi.org/10.1109/TCAD.2024.3443704).
 + Y. Kawamoto, T. Sato, and K. Suenaga, “Sound and relatively complete belief Hoare logic for statistical hypothesis testing programs,” Artificial Intelligence, vol. 326, p. 104045, Jan. 2024, doi: [10.1016/j.artint.2023.104045](https://doi.org/10.1016/j.artint.2023.104045).
++ H. Dayekh, N. Basset, and T. Dang, “Hybrid System Identification through Optimization and Active Learning,” IFAC-PapersOnLine, vol. 58, no. 11, pp. 87–92, 2024, doi: [10.1016/j.ifacol.2024.07.430](https://doi.org/10.1016/j.ifacol.2024.07.430).
 
 
 ### 2023
 
 + Y. Takayama, K. Hashimoto, and T. Ohtsuka, “Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications,” in 2023 62nd IEEE Conference on Decision and Control (CDC), Singapore, Singapore: IEEE, Dec. 2023, pp. 6855–6862. doi: [10.1109/CDC49753.2023.10383605](https://doi.org/10.1109/CDC49753.2023.10383605).
++ T. Dang, A. Donzé, I. Haque, N. Kekatos, and I. Saha, “Counter-Example Guided Imitation Learning of Feedback Controllers from Temporal Logic Specifications,” in 2023 62nd IEEE Conference on Decision and Control (CDC), Singapore, Singapore: IEEE, Dec. 2023, pp. 5339–5344. doi: [10.1109/CDC49753.2023.10383831](https://doi.org/10.1109/CDC49753.2023.10383831).
 + J. Shijubo, M. Waga, and K. Suenaga, “Probabilistic Black-Box Checking via Active MDP Learning,” ACM Trans. Embed. Comput. Syst., vol. 22, no. 5s, pp. 1–26, Oct. 2023, doi: [10.1145/3609127](https://doi.org/10.1145/3609127).
 + S. V. Patil, K. Hashimoto, and M. Kishida, “Robust Traffic Flow Control using Signal Spatio-Temporal Logic,” in 2023 European Control Conference (ECC), Bucharest, Romania: IEEE, Jun. 2023, pp. 1–8. doi: [10.23919/ECC57647.2023.10178127](https://doi.org/10.23919/ECC57647.2023.10178127).
++ A. Adimoolam, I. Saha, and T. Dang, “Safe Self-Triggered Control Based on Precomputed Reachability Sequences,” in Proceedings of the 26th ACM International Conference on Hybrid Systems: Computation and Control, San Antonio TX USA: ACM, May 2023, pp. 1–12. doi: [10.1145/3575870.3587124](https://doi.org/10.1145/3575870.3587124).
 + I. Hasuo et al., “Goal-Aware RSS for Complex Scenarios via Program Logic,” IEEE Trans. Intell. Veh., vol. 8, no. 4, pp. 3040–3072, Apr. 2023, doi: [10.1109/TIV.2022.3169762](https://doi.org/10.1109/TIV.2022.3169762).
 + M. Waga, É. André, and I. Hasuo, “Parametric Timed Pattern Matching,” ACM Trans. Softw. Eng. Methodol., vol. 32, no. 1, pp. 1–35, Jan. 2023, doi: [10.1145/3517194](https://doi.org/10.1145/3517194).
-+ 和田弘匡, 小蔵正輝, 岸田昌子, and 若宮直紀, “深層展開を用いた静的出力フィードバック安定化におけるハイパーパラメータの考察.” Jxiv, Jan. 13, 2023. doi: [10.51094/jxiv.242](https://doi.org/10.51094/jxiv.242).
++ 和田弘匡, 小蔵正輝, 岸田昌子, and 若宮直紀, “深層展開を用いた静的出力フィードバック安定化におけるハイパーパラメータの考察,a” Jxiv, Jan. 13, 2023. doi: [10.51094/jxiv.242](https://doi.org/10.51094/jxiv.242).
 + T. Sekiyama and H. Unno, “Temporal Verification with Answer-Effect Modification: Dependent Temporal Type-and-Effect System with Delimited Continuations,” Proc. ACM Program. Lang., vol. 7, no. POPL, pp. 2079–2110, Jan. 2023, doi: [10.1145/3571264](https://doi.org/10.1145/3571264).
 + M. Waga, “Active Learning of Deterministic Timed Automata with Myhill-Nerode Style Characterization,” in Computer Aided Verification, vol. 13964, C. Enea and A. Lal, Eds., in Lecture Notes in Computer Science, vol. 13964. , Cham: Springer Nature Switzerland, 2023, pp. 3–26. doi: [10.1007/978-3-031-37706-8_1](https://doi.org/10.1007/978-3-031-37706-8_1).
 + A. Wachi, W. Hashimoto, X. Shen, and K. Hashimoto, “Safe Exploration in Reinforcement Learning: A Generalized Formulation and Algorithms,” in Advances in Neural Information Processing Systems, A. Oh, T. Neumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine, Eds., Curran Associates, Inc., 2023, pp. 29252–29272. [Online]. Available: https://proceedings.neurips.cc/paper_files/paper/2023/file/5d4cd12ef6efedbf26b69b410f1f7d67-Paper-Conference.pdf
++ A. Le Coënt, B. Barbot, N. Pekergin, and C. Güzeliş, “Bayesian Networks as Approximations of Biochemical Networks,” in Computer Performance Engineering and Stochastic Modelling, vol. 14231, M. Iacono, M. Scarpa, E. Barbierato, S. Serrano, D. Cerotti, and F. Longo, Eds., in Lecture Notes in Computer Science, vol. 14231. , Cham: Springer Nature Switzerland, 2023, pp. 216–233. doi: [10.1007/978-3-031-43185-2_15](https://doi.org/10.1007/978-3-031-43185-2_15).
 + T. Koizumi, Y. Wasa, and M. Kishida, “Information Transfer-based Topology Identification of Dynamic Multi-agent Systems,” IFAC-PapersOnLine, vol. 56, no. 2, pp. 3948–3953, 2023, doi: [10.1016/j.ifacol.2023.10.1333](https://doi.org/10.1016/j.ifacol.2023.10.1333).
 + A. Kikuchi, K. Uchida, M. Waga, and K. Suenaga, “BOREx: Bayesian-Optimization-Based Refinement of Saliency Map for Image- and Video-Classification Models,” in Computer Vision – ACCV 2022, vol. 13847, L. Wang, J. Gall, T.-J. Chin, I. Sato, and R. Chellappa, Eds., in Lecture Notes in Computer Science, vol. 13847. , Cham: Springer Nature Switzerland, 2023, pp. 274–290. doi: [10.1007/978-3-031-26293-7_17](https://doi.org/10.1007/978-3-031-26293-7_17).
 + Y. Kawamoto, T. Sato, and K. Suenaga, “Formalizing Statistical Causality via Modal Logic,” in Logics in Artificial Intelligence, vol. 14281, S. Gaggl, M. V. Martinez, and M. Ortiz, Eds., in Lecture Notes in Computer Science, vol. 14281. , Cham: Springer Nature Switzerland, 2023, pp. 681–696. doi: [10.1007/978-3-031-43619-2_46](https://doi.org/10.1007/978-3-031-43619-2_46).
-+ A. Gurung, M. Waga, and K. Suenaga, “Learning Nonlinear Hybrid Automata from Input–Output Time-Series Data,” in Automated Technology for Verification and Analysis, vol. 14215, É. André and J. Sun, Eds., in Lecture Notes in Computer Science, vol. 14215. , Cham: Springer Nature Switzerland, 2023, pp. 33–52. doi: [10.1007/978-3-031-45329-8_2](https://doi.org/10.1007/978-3-031-45329-8_2).
++ A. Gurung, M. Waga, and K. Suenaga, “Learning Nonlinear Hybrid Automata from Input–Output Time-Series Data,” in Automated Technology for Verification and Analysis, É. André and J. Sun, Eds., in Lecture Notes in Computer Science, vol. 14215. Cham: Springer Nature Switzerland, 2023, pp. 33–52. doi: [10.1007/978-3-031-45329-8_2](https://doi.org/10.1007/978-3-031-45329-8_2).
 
 
 ### 2022

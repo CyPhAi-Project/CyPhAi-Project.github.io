@@ -37,5 +37,7 @@ Université Grenoble Alpes
 
 March 13
 + 10:00 am - 12:00 pm:
-  * More directions for WP1 to investigate
-  * 
+  * Review publications from the project and discuss more directions for the coming year for WP1, WP2, and WP3
++ 2:15 pm -  
+  * Review publications from the project and discuss more directions for the coming year for WP4
+  * TODO list to integrate existing tools to complete WP5
