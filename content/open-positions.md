@@ -8,7 +8,7 @@ title: "Open Position Announcements"
 
 (Posted on March 1, 2024. Updated on March 13, 2025.)
 
-We are excited to announce the availability of three postdoctoral researcher positions within the "CyPhAI: Formal Analysis and Design of AI-intensive Cyber-Physical Systems" project. We seek to develop mathematically rigorous methodologies for the modeling, verification, testing, monitoring, and control of cyber-physical systems (CPS) where artificial intelligence (AI) plays a pivotal role. This pioneering project is a collaborative effort between Japan teams led by Prof. Kohei Suenaga (Kyoto University) and Prof. Masako Kishida (NII) and the France team led by Prof. Thao Dang (CNRS), emphasizing international collaboration and interdisciplinary research in AI-CPS.
+We are excited to announce the availability of several postdoctoral researcher positions within the "CyPhAI: Formal Analysis and Design of AI-intensive Cyber-Physical Systems" project. We seek to develop mathematically rigorous methodologies for the modeling, verification, testing, monitoring, and control of cyber-physical systems (CPS) where artificial intelligence (AI) plays a pivotal role. This pioneering project is a collaborative effort between Japan teams led by Prof. Kohei Suenaga (Kyoto University) and Prof. Masako Kishida (NII) and the France team led by Prof. Thao Dang (CNRS), emphasizing international collaboration and interdisciplinary research in AI-CPS.
 
 In this project, you will help advance the research in formal methods and control theories for AI-CPS and closely work with the leading researchers in Japan, Prof. Kohei Suenaga at Kyoto University in Kyoto or Prof. Masako Kishida at the National Institute of Informatics (NII) in Tokyo. You will also have opportunities to participate in several annual project workshops held in France or Japan to collaborate with the France team as well as other Japan teams.
 
@@ -62,7 +62,7 @@ Compensation for the successful candidate starts from 6M JPY/year before tax. (W
 Please send your application to `application-cyphai [at] fos.kuis.kyoto-u.ac.jp` with the subject "CREST Job Application". Your application must include:
 - A brief CV,
 - A list of your publications (A link to your dblp or Google Scholar profile will be sufficient.),
-- Softcopies of your representative publications,
+- Soft copies of your representative publications,
 - Contact information for two references,
 - For applicants to Kishida's group at NII: a short research proposal (at most one page including figures/illustrations).
 
