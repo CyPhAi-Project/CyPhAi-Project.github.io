@@ -38,6 +38,12 @@ Université Grenoble Alpes
 March 13
 + 10:00 am - 12:00 pm:
   * Review publications from the project and discuss more directions for the coming year for WP1, WP2, and WP3
-+ 2:15 pm -  
++ 2:15 pm - 5:00 pm
   * Review publications from the project and discuss more directions for the coming year for WP4
   * TODO list to integrate existing tools to complete WP5
+
+March 14
++ 10:00 am - 12:00 pm:
+  * Draw a class diagram for sharing components between existing HA learning approaches 
++ 2:00 pm - 5:00 pm:
+  * Live coding session by Kohei and Masaki!!!
