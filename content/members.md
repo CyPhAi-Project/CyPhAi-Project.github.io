@@ -56,6 +56,7 @@ title: "Members"
 | Research Collaborator  | [Masaki Waga]         | Assistant Professor, Graduate School of Informatics, Kyoto University
 | Research Collaborator  | [Claus Aranha]        | Associate professor, University of Tsukuba, Graduate Program in Computer Science and the College of Information Sciences
 | Project Researcher     | [Chiao Hsieh]         | Program-Specific Assistant Professor, Graduate School of Informatics, Kyoto University
+| Project Researcher     | [Chao Gao]            | Postdoctoral Researcher, Graduate School of Informatics, Kyoto University
 {.member-table}
 
 
@@ -72,7 +73,7 @@ title: "Members"
 [Benoît Barbot]: http://lacl.fr/~barbot/
 [Aneel Tanwani]: https://homepages.laas.fr/atanwani/
 [Alexandre Donzé]: http://www.decyphir.com/
-[Kohei Suenaga]: https://www.fos.kuis.kyoto-u.ac.jp/~ksuenaga/index.html
+[Kohei Suenaga]: https://ksuenaga.github.io/
 [Masako Kishida]: http://research.nii.ac.jp/~kishida/index.html
 [Nicolas Basset]: http://www-verimag.imag.fr/~bassetni/
 [Marius Bozga]: http://www-verimag.imag.fr/~bozga/
@@ -86,9 +87,10 @@ title: "Members"
 [Masaki Waga]: https://maswag.github.io/
 [Claus Aranha]: http://conclave.cs.tsukuba.ac.jp/
 [Chiao Hsieh]: https://hc825b.github.io
+[Chao Gao]: https://www.researchgate.net/profile/Chao-Gao-68
 [Masaki Ogura]: https://masakiogura.com/index.html
 [Kazumune Hashimoto]: https://sites.google.com/view/kazumunehashimotoengpageupdate/home
-[Kohei Suenaga]: https://ksuenaga.github.io/
+
 
 
 ### Past Members

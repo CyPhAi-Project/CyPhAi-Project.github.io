@@ -4,9 +4,13 @@ title: "Open Position Announcements"
 
 ## Japan Team
 
-### Postdoctoral Researchers in Formal Methods and Control Theory for AI-Intensive Cyber-Physical Systems (max. until March 2026)
 
-(Posted on March 1, 2024. Updated on March 13, 2025.)
+### We are no longer recruiting. The outdated announcement below is for reference. Thank you for your interest. 
+
+
+### ~~Postdoctoral Researchers in Formal Methods and Control Theory for AI-Intensive Cyber-Physical Systems (max. until March 2026)~~
+
+(Posted on March 1, 2024. Last updated on June 12, 2025.)
 
 We are excited to announce the availability of several postdoctoral researcher positions within the "CyPhAI: Formal Analysis and Design of AI-intensive Cyber-Physical Systems" project. We seek to develop mathematically rigorous methodologies for the modeling, verification, testing, monitoring, and control of cyber-physical systems (CPS) where artificial intelligence (AI) plays a pivotal role. This pioneering project is a collaborative effort between Japan teams led by Prof. Kohei Suenaga (Kyoto University) and Prof. Masako Kishida (NII) and the France team led by Prof. Thao Dang (CNRS), emphasizing international collaboration and interdisciplinary research in AI-CPS.
 
@@ -24,7 +28,7 @@ Compensation for the successful candidate starts from 6M JPY/year before tax. (W
 
 #### Position Descriptions
 
-#### 1. One Postdoctoral Researcher in Formal Methods for AI-CPS
+#### 1. Postdoctoral Researcher in Formal Methods for AI-CPS
 - **Workplace:** Onsite with [Computer Software Group] at Kyoto University, Kyoto, Japan
 - **Qualifications:**
     + Must have or be near the completion of a PhD with research topics in verification and testing of software or hybrid systems, verification and testing of machine-learning systems, or reinforcement learning
@@ -45,7 +49,7 @@ Compensation for the successful candidate starts from 6M JPY/year before tax. (W
 [Computer Software Group]: https://www.fos.kuis.kyoto-u.ac.jp/
 
 
-#### 2. One Postdoctoral Researcher in Control for AI-CPS
+#### 2. Postdoctoral Researcher in Control for AI-CPS
 
 - **Workplace:** Onsite at National Institute of Informatics, Tokyo, Japan
 - **Qualifications:**
