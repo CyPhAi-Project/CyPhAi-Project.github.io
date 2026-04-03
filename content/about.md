@@ -16,7 +16,7 @@ The project members consist of researchers from top research institutes in Japan
 + WP4-Monitoring and Control for Enforcing Dependability and Performance constraints, and
 + WP5-Case Studies, Applications and Tools.
 
- The project was supported by the Japan Science and Technology agency (JST) and Agence nationale de la recherche (ANR) through the Core Research for Evolutionary Science and Technology (CREST) program. See project records at [JST project database] and [ANR funded projects].
+The project was supported by the Japan Science and Technology agency (JST) and Agence nationale de la recherche (ANR) through the Core Research for Evolutionary Science and Technology (CREST) program. See project records at [JST project database] and [ANR funded projects].
 
 [JST Project Database]: https://projectdb.jst.go.jp/grant/JST-PROJECT-20334578/
 [ANR funded projects]: https://anr.fr/Project-ANR-20-JSTM-0001
