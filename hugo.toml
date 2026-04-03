@@ -5,11 +5,11 @@ hasCJKLanguage = true
 title = "CyPhAI Project"
 author = "CyPhAI Project"
 theme = "hugo-flex"
-copyright = "Copyright notice and date: © CyPhAI Project, 2021-2024."
+copyright = "Copyright notice and date: © CyPhAI Project, 2021-2026."
 
 [params]
   color = "#2980b9"
-  footer = "Copyright notice and date: © CyPhAI Project, 2021-2024."
+  footer = "Copyright notice and date: © CyPhAI Project, 2021-2026."
   favicon = true
   divider = false
   toc = false # Disable Table of Contents
