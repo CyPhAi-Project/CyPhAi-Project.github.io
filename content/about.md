@@ -8,7 +8,7 @@ AI-CPS pose a number of design challenges. On one hand, AI techniques are “unp
 
 This project, **Formal Analysis and Design of AI-intensive Cyber-Physical Systems – CyPhAI**, was a 5.5-year research project (2020–2026) that tackled the above-mentioned challenges on AI-CPS. To achieve these objectives, we combined formal methods from computer science with mathematical control theory, and we used several tools from the field of functional analysis, differential equations, optimization, probability and statistics to solve our problems and establish mathematical rigor in our results. In particular, we developed mathematical concepts for measuring and sampling sets of AI-CPS behaviors, with respect to quantitative criteria (such as property satisfaction, control performance). These concepts were necessary for formal reasoning and extracting information from data, to learn hybrid processes and combine black-box (model-free and data-driven) and white box (model-based) approaches for validation, control, and online monitoring.
 
-The project members consist of researchers from top research institutes in Japan and France. The project is organized in 5 work packages (WPs) below that cover major problems in the design process: 
+The project members consisted of researchers from top research institutes in Japan and France. The project was organized in 5 work packages (WPs) below that covered major problems in the design process: 
 
 + WP1-Learning for CPS,
 + WP2-Learning within CPS,
